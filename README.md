@@ -280,6 +280,18 @@ copies or substantial portions of the Software.
 
 ---
 
+## Help!
+- **This README.md file is created by AI, so there are some miskate.**
+- **Please Help to resolve those miskets**
+
+---
+
+<div align="center">
+  <p>Made with ❤️ by <a href="https://github.com/0PKunal">0PKunal</a></p>
+  <p>If this project helped you, please give it a ⭐️</p>
+</div>#
+
+
 <div align="center">
   <p>Made with ❤️ by <a href="https://github.com/0PKunal">0PKunal</a></p>
   <p>If this project helped you, please give it a ⭐️</p>
